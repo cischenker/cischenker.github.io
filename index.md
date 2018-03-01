@@ -16,22 +16,32 @@ Some samples of the music I have been working on:
 
 # [](#header-2)Other projects and collaborations
 
-# [](#header-4) [Lylas “Warm Harm”](https://lylas.bandcamp.com/album/warm-harm) (2017)
+# [](#header-6) [Lylas “Warm Harm”](https://lylas.bandcamp.com/album/warm-harm) (2017)
 
 <img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/warm_harm.jpg" style="width:300;height:300px;" align="left"> Contributed saxophone parts for multiple tracks on the album, released by Cleft records
 
-# [](#header-4) [Drunken Sufis “Pala Pala”](https://drunkensufis.bandcamp.com/) (2017)
+# [](#header-6) [Drunken Sufis “Pala Pala”](https://drunkensufis.bandcamp.com/) (2017)
 
 <img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/pala_pala.jpg" style="width:300;height:300px;" align="left"> Released by Bad Friend Record
 
 
 
-# [](#header-4) [Square People “Dark Vader”](https://soundcloud.com/lofantasyjunk/sets/square-people-dark-vader) (2015)
+# [](#header-6) [Square People “Dark Vader”](https://soundcloud.com/lofantasyjunk/sets/square-people-dark-vader) (2015)
 
 <img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/dark_vader.jpg" style="width:300;height:300px;" align="left">  released by Hag Bloom tape
 
 
-# [](#header-4) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
+# [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
 
-<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" style="width:300;height:300px;" align="left">  Saxophone improvisation, released on Feeding Tube Records.
+<p float="left">
+  <img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" width="300" />
+  Saxophone improvisation, released on Feeding Tube Records.
+</p>
 
+
+# [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" width="300" />
+  Saxophone improvisation, released on Feeding Tube Records.
+</p>
