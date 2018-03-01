@@ -33,14 +33,12 @@ Some samples of the music I have been working on:
 
 # [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" width="300" />
-  Saxophone improvisation, released on Feeding Tube Records.
-</p>
-
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+Saxophone improvisation, released on Feeding Tube Records.
+---
 
 # [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" width="300" alt="Saxophone improvisation, released on Feeding Tube Records."/>
-</p>
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg">
+Saxophone improvisation, released on Feeding Tube Records.
+---
