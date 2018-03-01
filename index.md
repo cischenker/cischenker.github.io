@@ -17,7 +17,6 @@ Some samples of the music I have been working on:
 # [](#header-2)Other projects and collaborations
 
 ## [](#header-6) [Lylas “Warm Harm”](https://lylas.bandcamp.com/album/warm-harm) (2017)
----
 Contributed saxophone parts for multiple tracks on the album, released by Cleft records.
 
 <left>
@@ -26,7 +25,6 @@ Contributed saxophone parts for multiple tracks on the album, released by Cleft 
 <p>&nbsp;</p>
 
 ## [](#header-6) [Drunken Sufis “Pala Pala”](https://drunkensufis.bandcamp.com/) (2017)
----
 Released by Bad Friend Record
 
 <left>
@@ -35,7 +33,6 @@ Released by Bad Friend Record
 <p>&nbsp;</p>
 
 ## [](#header-6) [Square People “Dark Vader”](https://soundcloud.com/lofantasyjunk/sets/square-people-dark-vader) (2015)
----
 Released by Hag Bloom tape
 
 <left>
@@ -44,7 +41,6 @@ Released by Hag Bloom tape
 <p>&nbsp;</p>
 
 ## [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
----
 Saxophone improvisation, released on Feeding Tube Records.
 
 <left>
