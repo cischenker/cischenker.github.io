@@ -16,6 +16,22 @@ Some samples of the music I have been working on:
 
 # [](#header-2)Other projects and collaborations
 
-<left>
-<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/warm_harm.jpg" style="width:800;height:700px;">
-</left>
+# [](#header-4) [Lylas “Warm Harm”](https://lylas.bandcamp.com/album/warm-harm) (2017)
+
+<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/warm_harm.jpg" style="width:350;height:350px;" align="left"/> Contributed saxophone parts for multiple tracks on the album, released by Cleft records.
+
+# [](#header-4) [Drunken Sufis “Pala Pala”](https://drunkensufis.bandcamp.com/) (2017)
+
+<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/pala_pala.jpg" style="width:350;height:350px;" align="left"/> Released by Bad Friend Records
+
+
+
+# [](#header-4) [Square People “Dark Vader”](https://soundcloud.com/lofantasyjunk/sets/square-people-dark-vader) (2015)
+
+<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/dark_vader.jpg" style="width:350;height:350px;" align="left"/>  released by Hag Bloom tapes
+
+
+# [](#header-4) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
+
+<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" style="width:350;height:350px;" align="left"/>  Saxophone improvisation, released on Feeding Tube Records. 
+
