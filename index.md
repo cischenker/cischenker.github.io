@@ -41,7 +41,7 @@ Released by Hag Bloom tape
 
 Saxophone improvisation, released on Feeding Tube Records.
 
-<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" ALIGN=”left”/>
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" align=”left”/>
 
 
 
