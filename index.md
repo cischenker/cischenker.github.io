@@ -8,7 +8,8 @@ Originally hailing from Richmond, VA Saxophonist/Improvisor/Composer Craig Schen
 # [](#header-2)Projects and interests
 Some samples of the music I have been working on:
 
-- Loop 2.8.18 Stand Thump And Hum [download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Stand%20Thump%20And%20Hum.m4a?raw=true)
-- Loop 2.8.18 Variation 3 And 3B [download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Variation%203%20And%203B.m4a?raw=true)
-- Loop 2.8.18 Variation 6 And 6B [download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Variation%206%20And%206B.m4a?raw=true)
-- M_S_T_THUMP MIXES_#11 [download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/M_S_T_THUMP%20MIXES_%2311.mp3?raw=true)
+- Loop 2.8.18 Stand Thump And Hum ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Stand%20Thump%20And%20Hum.m4a?raw=true))
+- Loop 2.8.18 Variation 3 And 3B ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Variation%203%20And%203B.m4a?raw=true))
+- Loop 2.8.18 Variation 6 And 6B ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Variation%206%20And%206B.m4a?raw=true))
+- M_S_T_THUMP MIXES_#11 ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/M_S_T_THUMP%20MIXES_%2311.mp3?raw=true)
+)
