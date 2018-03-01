@@ -16,6 +16,6 @@ Some samples of the music I have been working on:
 
 # [](#header-2)Other projects and collaborations
 
-<center>
-<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/warm_harm.jpg" alt="li_method" style="width:800;height:700px;">
-</center>
+<left>
+<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/warm_harm.jpg" style="width:800;height:700px;">
+</left>
