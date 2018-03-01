@@ -11,8 +11,7 @@ Some samples of the music I have been working on:
 - Thump and Hum - Foundation ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Stand%20Thump%20And%20Hum.m4a?raw=true))
 - Thump and Hum - Layer 3A/B ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Variation%203%20And%203B.m4a?raw=true))
 - Thump and Hum - Layer 6A/B ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Variation%206%20And%206B.m4a?raw=true))
-- M/S/T #11 ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/M_S_T_THUMP%20MIXES_%2311.mp3?raw=true)
-)
+- M/S/T #11 ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/M_S_T_THUMP%20MIXES_%2311.mp3?raw=true))
 
 # [](#header-2)Other projects and collaborations
 
@@ -32,20 +31,18 @@ Released by Bad Friend Record
 </left>
 <p>&nbsp;</p>
 
-## [](#header-6) [Square People “Dark Vader”](https://soundcloud.com/lofantasyjunk/sets/square-people-dark-vader) (2015)
-Released by Hag Bloom tape
+
+## [](#header-6) [Big Bend “Hunched”](https://bigbend.bandcamp.com/releases) (2015)
 
 <left>
-<img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/dark_vader.jpg"> 
+<img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/big_bend.jpg"> 
 </left>
 <p>&nbsp;</p>
 
-## [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
-Saxophone improvisation, released on Feeding Tube Records.
+
+## [](#header-6) [Ancient Ocean “Blood Moon”](https://ancientoceanbbib.bandcamp.com/album/blood-moon) (2015)
 
 <left>
-<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg"/>
+<img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/blod_moon.jpg"> 
 </left>
-
-
-
+<p>&nbsp;</p>
