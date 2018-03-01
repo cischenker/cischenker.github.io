@@ -42,5 +42,5 @@ Some samples of the music I have been working on:
 # [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" width="300" alt=Saxophone improvisation, released on Feeding Tube Records./>
+  <img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" width="300" alt="Saxophone improvisation, released on Feeding Tube Records."/>
 </p>
