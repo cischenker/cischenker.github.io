@@ -8,10 +8,10 @@ Saxophonist/improvisor/composer Craig Schenker began his musical career in the e
 # [](#header-2)Sound Samples
 Some samples of the music I have been working on:
 
-- Thump And Hum - Base Layer([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Stand%20Thump%20And%20Hum.m4a?raw=true))
-- Thump And Hum - Layer 3A/B ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Variation%203%20And%203B.m4a?raw=true))
+- Thump and Hum - Base Layer([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Stand%20Thump%20And%20Hum.m4a?raw=true))
+- Thump and Hum - Layer 3A/B ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Variation%203%20And%203B.m4a?raw=true))
 - Thump and Hum - Layer 6A/B ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/Loop%202.8.18%20Variation%206%20And%206B.m4a?raw=true))
-- #11 ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/M_S_T_THUMP%20MIXES_%2311.mp3?raw=true)
+- M/S/T #11 ([download](https://github.com/cischenker/cischenker.github.io/blob/master/samples/M_S_T_THUMP%20MIXES_%2311.mp3?raw=true)
 )
 
 # [](#header-2)Other projects and collaborations
