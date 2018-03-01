@@ -36,15 +36,17 @@ Released by Bad Friend Record
 
 Released by Hag Bloom tape
 
+<left>
 <img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/dark_vader.jpg" ALIGN=”left”/> 
-
+</left>
 
 ## [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
 
 Saxophone improvisation, released on Feeding Tube Records.
 
+<left>
 <img align="left" width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg" align=”left”/>
-
+</left>
 
 
 
