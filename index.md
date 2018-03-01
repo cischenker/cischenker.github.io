@@ -20,7 +20,7 @@ Some samples of the music I have been working on:
 
 | <img align="left" width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/warm_harm.jpg"> |
 Contributed saxophone parts for multiple tracks on the album, released by Cleft records. |
-| ------------- | -------------:|
+| ------------- |:-------------|
  
  
  
