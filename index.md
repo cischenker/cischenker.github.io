@@ -43,6 +43,6 @@ Released by Bad Friend Record
 ## [](#header-6) [Ancient Ocean “Blood Moon”](https://ancientoceanbbib.bandcamp.com/album/blood-moon) (2015)
 
 <left>
-<img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/blod_moon.jpg"> 
+<img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/blood_moon.jpg"> 
 </left>
 <p>&nbsp;</p>
