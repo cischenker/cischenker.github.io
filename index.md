@@ -22,22 +22,22 @@ Contributed saxophone parts for multiple tracks on the album, released by Cleft 
 <left>
 <img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/warm_harm.jpg"/>
 </left>
-
-
+---
 ## [](#header-6) [Drunken Sufis “Pala Pala”](https://drunkensufis.bandcamp.com/) (2017)
 Released by Bad Friend Record
+
 <left>
 <img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/pala_pala.jpg"> 
 </left>
-
+---
 ## [](#header-6) [Square People “Dark Vader”](https://soundcloud.com/lofantasyjunk/sets/square-people-dark-vader) (2015)
 Released by Hag Bloom tape
+
 <left>
 <img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/dark_vader.jpg"> 
 </left>
-
+---
 ## [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
-
 Saxophone improvisation, released on Feeding Tube Records.
 
 <left>
