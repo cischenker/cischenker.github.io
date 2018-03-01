@@ -18,27 +18,24 @@ Some samples of the music I have been working on:
 
 # [](#header-6) [Lylas “Warm Harm”](https://lylas.bandcamp.com/album/warm-harm) (2017)
 
-<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/warm_harm.jpg" style="width:300;height:300px;" align="left"> Contributed saxophone parts for multiple tracks on the album, released by Cleft records
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/warm_harm.jpg">
+Contributed saxophone parts for multiple tracks on the album, released by Cleft records
+---
 
 # [](#header-6) [Drunken Sufis “Pala Pala”](https://drunkensufis.bandcamp.com/) (2017)
 
-<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/pala_pala.jpg" style="width:300;height:300px;" align="left"> Released by Bad Friend Record
-
-
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/pala_pala.jpg">
+Released by Bad Friend Record
+---
 
 # [](#header-6) [Square People “Dark Vader”](https://soundcloud.com/lofantasyjunk/sets/square-people-dark-vader) (2015)
 
-<img src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/dark_vader.jpg" style="width:300;height:300px;" align="left">  released by Hag Bloom tape
-
-
-# [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
-
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
-Saxophone improvisation, released on Feeding Tube Records.
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/dark_vader.jpg">
+Released by Hag Bloom tape
 ---
 
 # [](#header-6) [Egg Eggs “Taste of Sundress”](https://feedingtuberecords.bandcamp.com/album/taste-of-sundress) (2014)
 
-<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg">
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/egg_egg.jpg">
 Saxophone improvisation, released on Feeding Tube Records.
 ---
