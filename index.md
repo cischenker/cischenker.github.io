@@ -16,7 +16,7 @@ Some samples of the music I have been working on:
 # [](#header-2)Other projects and collaborations
 
 ## [](#header-6) [Lylas “Warm Harm”](https://lylas.bandcamp.com/album/warm-harm) (2017)
-Contributed saxophone parts for multiple tracks on the album, released by Cleft records.
+
 
 <left>
 <img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/warm_harm.jpg"/>
@@ -24,7 +24,7 @@ Contributed saxophone parts for multiple tracks on the album, released by Cleft 
 <p>&nbsp;</p>
 
 ## [](#header-6) [Drunken Sufis “Pala Pala”](https://drunkensufis.bandcamp.com/) (2017)
-Released by Bad Friend Record
+
 
 <left>
 <img width="300" height="300" src="https://raw.githubusercontent.com/cischenker/cischenker.github.io/master/img/pala_pala.jpg"> 
